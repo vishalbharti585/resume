@@ -19,7 +19,7 @@ I am focused on developing industry-grade projects, improving coding discipline,
 ---
 
 ## 🔗 Download Resume
-👉 **[Click here to download my resume](./Vishal_Bharti_Resume.pdf)**
+👉 **[Click here to download my resume](./23BCS12032_VISHAL_BHARTI.pdf)**
 
 ---
 

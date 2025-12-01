@@ -20,7 +20,7 @@ Focused on developing practical, industry-ready projects with strong problem-sol
 ---
 
 ## 🔗 Download Resume
-👉 **[Click here to download my resume](./23BCS12032_VISHAL_BHARTI.pdf)**
+👉 **[Click here to download my resume](./resume/23BCS12032_VISHAL_BHARTI.pdf)**
 
 *(If your PDF is inside a folder, change the link to: `./resume/23BCS12032_VISHAL_BHARTI.pdf`)*
 

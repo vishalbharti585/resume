@@ -8,21 +8,19 @@ I maintain my latest, up-to-date résumé here so recruiters, mentors, and colla
 ## 🔹 About Me
 Aspiring Software Developer skilled in:
 
-- Java, C, C++, Python, JavaScript
-- Full-Stack Development (HTML, CSS, React, Angular, Spring)
-- Database Systems (MySQL, SQL)
-- IoT & Cyber-Physical Systems (ESP32, Sensors, RFID)
-- Machine Learning (Basics), AI for Entrepreneurship
+- C++,Java, C, Python, JavaScript  
+- Full-Stack Development (HTML, CSS, React, Angular, Spring)  
+- Database Systems (MySQL, SQL)  
+- IoT & Cyber-Physical Systems (ESP32, Sensors, RFID)  
+- Machine Learning (Basics), AI for Entrepreneurship  
 - Cloud fundamentals (AWS – Solutions Architect Associate)
 
-Focused on developing practical, industry-ready projects with strong problem-solving skills and hands-on experience in real development workflows.
+Focused on developing practical, industry-ready projects with a strong problem-solving mindset and hands-on development experience.
 
 ---
 
 ## 🔗 Download Resume
-👉 **[Click here to download my resume](./resume/23BCS12032_VISHAL_BHARTI.pdf)**
-
-*(If your PDF is inside a folder, change the link to: `./resume/23BCS12032_VISHAL_BHARTI.pdf`)*
+👉 **[Click here to download my resume](./23BCS12032_VISHAL_BHARTI.pdf)**
 
 ---
 

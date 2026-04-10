@@ -8,11 +8,10 @@ I maintain my latest, up-to-date résumé here so recruiters, mentors, and colla
 ## 🔹 About Me
 Aspiring Software Developer skilled in:
 
-- C++, C, Java, Python, JavaScript
-- Full-Stack Development (HTML, CSS, React, Angular, Spring)
+- C++, Java, Python, JavaScript
+- Full-Stack Development (HTML, CSS, Node JS)
 - Database Systems (MySQL, SQL)
 - IoT & Cyber-Physical Systems (ESP32, Sensors, RFID)
-- Machine Learning (Basics), AI for Entrepreneurship
 - Cloud fundamentals (AWS – Solutions Architect Associate)
 
 Focused on developing practical, industry-ready projects with a strong problem-solving mindset.

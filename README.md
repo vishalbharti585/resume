@@ -19,7 +19,7 @@ Focused on developing practical, industry-ready projects with a strong problem-s
 ---
 
 ## 🔗 Download Resume
-👉 📄 **[Click here to download my resume](VISHAL%20BHARTI.pdf)**
+👉 📄 **[Click here to download my resume](23BCS12032_VISHAL_BHARTI(2).pdf)**
 
 
 
